@@ -1,6 +1,6 @@
-# Analysis of non-mosaic females extends the X-inactivation landscape of humans
+# A whole-organism landscape of X-inactivation in humans
 
-R scripts for figures made in 'Analysis of non-mosaic females extends the X-inactivation landscape of humans'
+R scripts for figures made in 'A whole-organism landscape of X-inactivation in humans'
 
 SCRIPT AUTHORS
 
